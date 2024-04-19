@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm helmholtz, a CS student in HITsz.
+
+~~Having a long vacation~~ Working on graphics and inverse rendering.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lcp29)
+
+You can contact me at <a href="helmholtz@fomal.host">helmholtz@fomal.host</a> in 中文 | English | 日本語.
+
 <!--
 **lcp29/lcp29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
