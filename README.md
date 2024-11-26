@@ -2,7 +2,7 @@
 
 I'm helmholtz, a CS student in HITsz.
 
-~~Having a long vacation~~ Working on graphics and inverse rendering.
+~~Having a long vacation~~ ~~Working on graphics and inverse rendering~~ 摆烂中.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lcp29" />
